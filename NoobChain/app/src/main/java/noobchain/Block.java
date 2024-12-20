@@ -38,6 +38,7 @@ public class Block {
 			n++;
 			hash = calculateHash();
 		}
-		System.out.println("Block Mined!!! : " + hash);
+		
+        System.out.println("Block Mined!!! : " + hash);
     }
 }

@@ -5,9 +5,8 @@ import java.security.NoSuchAlgorithmException;
 
 public class StringUtil {
     
-    /*
-     * Don’t worry too much if you don’t understand the contents of this helper method, 
-     * all you need to know is that it takes a string and applies SHA256 algorithm to it, 
+    /* 
+     * All we need to know is that it takes a string and applies SHA256 algorithm to it, 
      * and returns the generated signature as a string.
      */
 
